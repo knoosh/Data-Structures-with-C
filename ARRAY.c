@@ -4,7 +4,7 @@ int main()
 
 {
 	int arr[10],i,a;                       //array for storing integers of size 10
-    printf("Enter the value of array\n");
+    printf("Enter data to store in array\n");
 
 	for( a= 0; a<=5 ; a++ )
 	{
